@@ -11,37 +11,49 @@ Here's how a basic text announcement looks in the app when checking in to a site
 
 ## Creating a Site Announcement
 
-You can create a Site Announcement in the 1Breadcrumb mobile app from the host screen. **If you are a host of multiple sites, make sure you have the correct site selected**
+### Log in to the 1Breadcrumb Web Portal
 
-![Main host screen](https://github.com/cookbrothersconstruction/documentation/assets/115191984/4b38bee4-cd9f-403f-8a1f-c5a43a5ffb70)
+[1Breadcrumb Web Portal](https://dashboard.1breadcrumb.com)
+
+### Manage your site
+
+![Manage Site](https://github.com/cookbrothersconstruction/documentation/assets/115191984/aec18036-42c8-4fca-9d01-8273952321ba)
 
 
+Scroll down to and expand the Announcements section.
 From there you will see a list of existing Site Announcements (if any), and the option to create a new one. **If there are old or expired announcements listed then you can remove them**
 
-![Announcement list screen](https://github.com/cookbrothersconstruction/documentation/assets/115191984/1aa269dd-d5e7-42b5-9c28-900468afd8bf)
+![Announcements section](https://github.com/cookbrothersconstruction/documentation/assets/115191984/f0c89195-9a8b-4146-b588-d00097dd00b3)
 
 
-Hitting "Add New Announcement" will bring you to the announcement creation screen:
+Hitting "Add New Announcement" will provide you the options to create a new Announcement:
 
-![Creating a new announcement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/31108e67-170c-4499-bf58-730dd6579ef4)
+![Creating a new Annoucement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ed158a62-bcfb-40b0-a49d-d69283cbdc37)
+
+
+**IMPORTANT**
+
+After populating the Announcement fields, hit "Add New Announcement":
+
+![Add New Announcement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/2dc3a179-c71d-40bb-81d9-6f2f7cd99a04)
+
+
+But then you must also hit Submit Changes at the top of this page:
+
+![Submit Changes](https://github.com/cookbrothersconstruction/documentation/assets/115191984/3f69de81-850a-4586-aea0-08663c82ec1b)
 
 
 ## Announcement Options
 
+First ensure that you have --- Create New Announcement ---- selected at the top.
+
 There are several options available when creating a Site Announcement:
 
-### Title
 
-In order to help make Site Announcements maintainable you must title your announcement in this format:
-**PROJECT_CODE DATE TITLE**
-for example:
+### Valid From / Valid To
 
-**D999 2023-09-19 Daily Hazards**
-
-
-### Group Name
-
-This option can be left blank
+These options can be used to limit the date range for which the announcement will be displayed.
+It's generally recommended that you don't use these options, and instead leave them blank and delete any previous unused announcements. This helps keep the global announcment list clean.
 
 
 ### Display Time
@@ -50,7 +62,7 @@ This option indicates when this announcement should be shown, to include users w
 **Both**
 
 
-### Announcement mode
+### Mode
 
 This option indicates whether users who are already checked-in should receive an app notification that there is a new announcement to view. Set this to:
 **NotifyOnce**
@@ -65,14 +77,29 @@ Alternatively if you want the user to have to sign-off on having viewed the anno
 **Mandatory View and SignOff**
 
 
-### Announcement Type
+### Specific user options (Set to specific users, Set to specific industry type, Set to specific visitor type, Set to specific company supplier.
+
+These options can be used to limit who or which type of visitors will see an anouncement.
+You'll usually want everyone to see announcements so just leave these options off.
+
+
+### Type
 
 This is the type of announcement to show. Keep this simple and select from PDF, Text or Image
 
 Usually a basic Text field will be enough, but Image will let you select an image from your phone, and PDF can be used for more detailed information (such as exporting the Procore Daily Pre-Start CAP inspection as in the advanced example below)
 
 
-### Enter Text / Choose Media
+### Title
+
+In order to help make Site Announcements maintainable you must title your announcement in this format:
+**PROJECT_CODE DATE TITLE**
+for example:
+
+**D999 2023-09-19 Daily Hazards**
+
+
+### Data / Link
 
 Depending on the announcement type you've chosen, this is where you can enter the text for the announcement, or choose the image or PDF document.
 
@@ -87,19 +114,9 @@ Set this to **AnyTime** so that the announcement is displayed to anyone no matte
 When your Announcement Type is an Image, you can use this field to display a preview before the announcement is opened.
 
 
-### Active Date Range
+### Announcement Group
 
-This option can be used to limit the date range for which the announcement will be displayed.
-It's generally recommended that you don't use the Time Limited option, and instead use the Valid Forever option deleting any previous announcements. This helps keep the global announcment list clean.
-
-### Specific user options
-
-These options can be used to limit who or which type of visitors will see an anouncement.
-You'll usually want everyone to see announcements so just leave these options off.
-
-### Active announcement
-
-Leave this checkbox ticked so that the announcement appears and is applied to the site immediately.
+This option should be left blank
 
 
 # Examples
@@ -108,7 +125,7 @@ Leave this checkbox ticked so that the announcement appears and is applied to th
 
 Use these settings to create a text annoucement describing the hazards for the day which must be viewed when checking-in.
 
-![4  Create Announcement combined](https://github.com/cookbrothersconstruction/documentation/assets/115191984/015bf2bc-6842-4efe-9bcf-25bc37fe4e24)
+![Basic example](https://github.com/cookbrothersconstruction/documentation/assets/115191984/295130a1-f7da-40bd-a832-6226765faf4a)
 
 
 ## Advanced example - Using the Procore Daily Pre-Start CAP Inspection as an announcement.
@@ -116,46 +133,35 @@ Use these settings to create a text annoucement describing the hazards for the d
 As you will be running daily pre-start caps in Procore through the Inspections tool, after completing the inspection you can load a PDF version as a Site Announcement by following these instructions.
 
 
-After completing the inspection on the Procore mobile app, hit the envelope in the top right corner:
+After completing the inspection on the Procore web app, export the inspection as a PDF:
 
-![5  Completed inspection](https://github.com/cookbrothersconstruction/documentation/assets/115191984/0acc14f1-f797-4b13-95aa-e0e39b812b73)
-
-
-Email this to yourself:
-
-![6  Email inspection as pdf](https://github.com/cookbrothersconstruction/documentation/assets/115191984/72725cc7-97ba-4a85-9a7e-d9a6f7d6d1ee)
+![Export inspection as PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bff82183-d461-4148-b1d1-ef246ab6d15d)
 
 
-Then hit the View PDF link from the email to download the PDF:
-
-![7  Open pdf from outlook email](https://github.com/cookbrothersconstruction/documentation/assets/115191984/4ae60446-0def-458c-bde1-422a19c3bf36)
-
-
-The PDF should then download to your phone:
-
-![8  pdf is downloaded](https://github.com/cookbrothersconstruction/documentation/assets/115191984/a518b9bc-ab26-4a69-8cfc-54a7809c5562)
+Save the PDF file to your computer:
+![Save the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/36533bb4-135b-4e20-9062-0c47c930d70d)
 
 
 Then use these settings (selecting PDF as Announcment Type, and choosing the PDF you downloaded):
 
-![9  Create announcement with PDF combined](https://github.com/cookbrothersconstruction/documentation/assets/115191984/5fdc9d41-2cc5-4642-ab5f-0def8ee93a35)
+![Create New Announcement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/3c2a22ac-b316-4477-a97c-bddb54ef6eda)
 
 
 Here's how the announcement will appear when someone checks in:
 
-![10  Seeing announcement at Check-in](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bd7f73f8-359e-4565-bd20-19fcd8824eb5)
+![Seeing announcement at Check-in](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bd7f73f8-359e-4565-bd20-19fcd8824eb5)
 
 
 And when viewing the actual announcment:
 
-![11  Viewing the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/b7d7d405-3349-4552-9cea-68d966440f28)
+![Viewing the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/b7d7d405-3349-4552-9cea-68d966440f28)
 
 
 Based on these settings, the user will need to confirm that they have viewed the announcement:
 
-![12  Confirming the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ab01a5f9-213a-4415-8ea5-2917ecd944a9)
+![Confirming the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ab01a5f9-213a-4415-8ea5-2917ecd944a9)
 
 
 The announcement can also be viewed any time after check-in from the main app screen:
 
-![13  Announcement can also be viewed any time](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bcd6d405-ac11-4a85-9e22-1f85a40a3e2b)
+![Announcement can also be viewed any time](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bcd6d405-ac11-4a85-9e22-1f85a40a3e2b)
