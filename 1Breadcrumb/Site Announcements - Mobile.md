@@ -6,7 +6,7 @@ Different from Site Alerts which send an SMS (TXT) message to attendes, Site Ann
 
 Here's how a basic text announcement looks in the app when checking in to a site:
 
-![How a basic announcement looks in the app](https://github.com/cookbrothersconstruction/documentation/assets/115191984/99bca7f0-3c7f-4c8f-af47-cfbe97341186)
+![How a basic announcement looks in the app](https://github.com/cookbrothersconstruction/documentation/assets/115191984/473515e4-ba6f-42bd-ba9d-83f051174d4a)
 
 
 ## Creating a Site Announcement
@@ -23,7 +23,7 @@ From there you will see a list of existing Site Announcements (if any), and the 
 
 Hitting "Add New Announcement" will bring you to the announcement creation screen:
 
-![Creating a new announcement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/31108e67-170c-4499-bf58-730dd6579ef4)
+![Creating a new Announcement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/c106d7e7-e5c6-4be2-8ed5-2482060bcf64)
 
 
 ## Announcement Options
@@ -108,7 +108,7 @@ Leave this checkbox ticked so that the announcement appears and is applied to th
 
 Use these settings to create a text annoucement describing the hazards for the day which must be viewed when checking-in.
 
-![4  Create Announcement combined](https://github.com/cookbrothersconstruction/documentation/assets/115191984/015bf2bc-6842-4efe-9bcf-25bc37fe4e24)
+![Basic Announcement settings](https://github.com/cookbrothersconstruction/documentation/assets/115191984/3eff8538-934c-405d-b41e-6e474e554eb4)
 
 
 ## Advanced example - Using the Procore Daily Pre-Start CAP Inspection as an announcement.
@@ -118,44 +118,44 @@ As you will be running daily pre-start caps in Procore through the Inspections t
 
 After completing the inspection on the Procore mobile app, hit the envelope in the top right corner:
 
-![5  Completed inspection](https://github.com/cookbrothersconstruction/documentation/assets/115191984/0acc14f1-f797-4b13-95aa-e0e39b812b73)
+![Share inspection](https://github.com/cookbrothersconstruction/documentation/assets/115191984/0acc14f1-f797-4b13-95aa-e0e39b812b73)
 
 
 Email this to yourself:
 
-![6  Email inspection as pdf](https://github.com/cookbrothersconstruction/documentation/assets/115191984/72725cc7-97ba-4a85-9a7e-d9a6f7d6d1ee)
+![Email inspection](https://github.com/cookbrothersconstruction/documentation/assets/115191984/72725cc7-97ba-4a85-9a7e-d9a6f7d6d1ee)
 
 
 Then hit the View PDF link from the email to download the PDF:
 
-![7  Open pdf from outlook email](https://github.com/cookbrothersconstruction/documentation/assets/115191984/4ae60446-0def-458c-bde1-422a19c3bf36)
+![Open PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/4ae60446-0def-458c-bde1-422a19c3bf36)
 
 
 The PDF should then download to your phone:
 
-![8  pdf is downloaded](https://github.com/cookbrothersconstruction/documentation/assets/115191984/a518b9bc-ab26-4a69-8cfc-54a7809c5562)
+![PDF downloaded](https://github.com/cookbrothersconstruction/documentation/assets/115191984/a518b9bc-ab26-4a69-8cfc-54a7809c5562)
 
 
 Then use these settings (selecting PDF as Announcment Type, and choosing the PDF you downloaded):
 
-![9  Create announcement with PDF combined](https://github.com/cookbrothersconstruction/documentation/assets/115191984/5fdc9d41-2cc5-4642-ab5f-0def8ee93a35)
+![Create Announcement with PDF settings](https://github.com/cookbrothersconstruction/documentation/assets/115191984/75f3ecb9-94b4-4692-a0ca-5fd4564ec467)
 
 
 Here's how the announcement will appear when someone checks in:
 
-![10  Seeing announcement at Check-in](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bd7f73f8-359e-4565-bd20-19fcd8824eb5)
+![Seeing Announcement at Check-In](https://github.com/cookbrothersconstruction/documentation/assets/115191984/fd838d76-0140-4a6d-92fe-a2863c87f61e)
 
 
 And when viewing the actual announcment:
 
-![11  Viewing the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/b7d7d405-3349-4552-9cea-68d966440f28)
+![Viewing the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/b7d7d405-3349-4552-9cea-68d966440f28)
 
 
 Based on these settings, the user will need to confirm that they have viewed the announcement:
 
-![12  Confirming the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ab01a5f9-213a-4415-8ea5-2917ecd944a9)
+![Confirming the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/dd887a18-9504-4bae-9c17-d99662a6454a)
 
 
 The announcement can also be viewed any time after check-in from the main app screen:
 
-![13  Announcement can also be viewed any time](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bcd6d405-ac11-4a85-9e22-1f85a40a3e2b)
+![Announcement can also be viewed any time](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bcd6d405-ac11-4a85-9e22-1f85a40a3e2b)
