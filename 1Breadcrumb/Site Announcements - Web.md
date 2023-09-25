@@ -6,7 +6,7 @@ Different from Site Alerts which send an SMS (TXT) message to attendes, Site Ann
 
 Here's how a basic text announcement looks in the app when checking in to a site:
 
-![How a basic announcement looks in the app](https://github.com/cookbrothersconstruction/documentation/assets/115191984/99bca7f0-3c7f-4c8f-af47-cfbe97341186)
+![How a basic announcement looks in the app](https://github.com/cookbrothersconstruction/documentation/assets/115191984/7130a489-dae7-4639-9b49-e0e7d152b6ca)
 
 
 ## Creating a Site Announcement
@@ -23,7 +23,7 @@ Here's how a basic text announcement looks in the app when checking in to a site
 Scroll down to and expand the Announcements section.
 From there you will see a list of existing Site Announcements (if any), and the option to create a new one. **If there are old or expired announcements listed then you can remove them**
 
-![Announcements section](https://github.com/cookbrothersconstruction/documentation/assets/115191984/f0c89195-9a8b-4146-b588-d00097dd00b3)
+![Announcements section](https://github.com/cookbrothersconstruction/documentation/assets/115191984/8a61b240-9096-47d9-af50-a562500c62ee)
 
 
 Hitting "Add New Announcement" will provide you the options to create a new Announcement:
@@ -144,12 +144,12 @@ Save the PDF file to your computer:
 
 Then use these settings (selecting PDF as Announcment Type, and choosing the PDF you downloaded):
 
-![Create New Announcement](https://github.com/cookbrothersconstruction/documentation/assets/115191984/3c2a22ac-b316-4477-a97c-bddb54ef6eda)
+![PDF Announcement example settings](https://github.com/cookbrothersconstruction/documentation/assets/115191984/3560f2d2-2a13-4990-a809-df5db9566e5b)
 
 
 Here's how the announcement will appear when someone checks in:
 
-![Seeing announcement at Check-in](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bd7f73f8-359e-4565-bd20-19fcd8824eb5)
+![Seeing Announcement at Check-In](https://github.com/cookbrothersconstruction/documentation/assets/115191984/dcce9c5d-4162-4d57-b556-e2a92332f64c)
 
 
 And when viewing the actual announcment:
@@ -159,7 +159,7 @@ And when viewing the actual announcment:
 
 Based on these settings, the user will need to confirm that they have viewed the announcement:
 
-![Confirming the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ab01a5f9-213a-4415-8ea5-2917ecd944a9)
+![Confirming the PDF](https://github.com/cookbrothersconstruction/documentation/assets/115191984/8b84accf-1fe7-4aab-ba35-c464de5e5e72)
 
 
 The announcement can also be viewed any time after check-in from the main app screen:
