@@ -98,6 +98,29 @@ Under the Procore Integration tab, hit the **Sync As Soon As Possible** icon und
 > This applies defaults such as our standard site induction. If this needs to be modified it can be found as an **Inactive Site**
 
 
+## Finishing the configuration of the site
+
+The site will now appear in the 1Breadcrumb, can be managed, and will be identifiable by the fact it's physical address isn't confirmed:
+
+![Unconfirmed new site](https://github.com/cookbrothersconstruction/documentation/assets/115191984/e88417b6-b791-41e1-aef5-c05165471b77)
+
+Click on Manage Site to continue the configuration of this site.
+
+Starting from the top, these are the settings to enter and confirm:
+
+**Site Supervisor(s) Email Address**
+Set this as the Site Manager as indicated by #5 in the setup request form submission. Multiple email addresses can be added by separating them by a comma.
+
+> The Site Supervisor field only relates to the automatio
+
+
+## TODO:
+- configuring the site
+- confirming site location
+- permissions
+- signage
+- instructions to project team
+
 
 
 </div>
