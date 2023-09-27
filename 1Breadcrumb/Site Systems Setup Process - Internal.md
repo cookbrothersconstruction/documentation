@@ -241,9 +241,137 @@ For ease of management, create a new folder for the project in the correct regio
 ![New project folder for documentation](https://github.com/cookbrothersconstruction/documentation/assets/115191984/8c28a0f2-7af2-40d2-86e7-6a074a5f78d1)
 
 
+### Site QR Code and Template for Lamination
+
+First get the generated instructions from 1Breadcrumb by hitting the **Print Instructions** button on the site list:
+
+![Print Instructions](https://github.com/cookbrothersconstruction/documentation/assets/115191984/5c50691f-f35e-41cd-b483-e62719d03a4a)
+
+And move this into the project folder created above.
+
+
+Then **copy** the `1BC QR Code Template.docx` document from [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material) into the project specifc folder.
+
+Open the Site Instructions PDF and on the second page you'll see the site QR code.
+
+Screen cap this code (it helps for clarity, if you can, to zoom in to 500% on the PDF first), and save it in the project specific folder as `Site QR.png`.
+
+Open the `1BC QR Code Template.docx` file from the project specific folder and paste the Site QR onto page 1:
+
+Turning on Word Gridlines can help with alignment.
+
+Enter the correct site code on page 2.
+
+> Having the directional arrow and site code on the reverse will ensure that the QR code is affixed to signage in the working orientation.
+>
+> Having the site code on the reverse ensures the correct code, once printed, makes it's way to the correct site
+
+Ensure the Layout of the QR code image is not interupting the document flow by setting it to "In front of text":
+
+![QR Template Alignment](https://github.com/cookbrothersconstruction/documentation/assets/115191984/e5f66040-bde3-46a2-ba5b-463864c3dfe2)
+
+Save the file.
+
+> This code will be printed, cut and laminated for fixing to the corflute signage.
+>
+> Ensure it's printed double-sided along the long edge.
+
+
+### Offsite Instructions
+
+In order for Trade Partners to be prepared and save time the first time they attend site, they will be sent instructions to perform the Cook Brothers Company Induction at their leisure (off-site).
+
+Head over to Site Settings in 1Breadcrumb for this site, and expand the Offsite section, and hit **Show Offsite QRCode**:
+
+![Offsite settings](https://github.com/cookbrothersconstruction/documentation/assets/115191984/728afb0a-1077-4185-a52e-aa59a558794f)
+
+Right-click on the Offsite QR code and save it to the project specific folder as `Offsite QR.png`.
+
+Hit the Copy to Clipboard button under Offsite Link and save this in the project specific folder in `Offsite Link.txt`
+
+**Copy** the `1Breadcrumb Trade Partner Induction Instructions.docx` file from [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material) into the project specific folder.
+
+Edit this file and paste in the contents of `Offsite QR.png` and `Offsite Link.txt` into the appropriate places, and enter in the site name:
+
+So that this:
+
+![Offsite Template](https://github.com/cookbrothersconstruction/documentation/assets/115191984/4593a7c8-e23c-48bb-8e90-4727fd1eab2f)
+
+
+Becomes this:
+
+![Offsite Template populated](https://github.com/cookbrothersconstruction/documentation/assets/115191984/bfcff162-5b02-4a8f-89de-8c08b6923511)
+
+Resizing the QR code if necessary.
+
+
+### Confirm you have all the information
+
+It's a good idea to rename the DOCX and PDF files to include the site code and site name so that the recipients are sure what project the files relate to.
+
+The project specific folder structure should now like like this:
+
+![Info file structure](https://github.com/cookbrothersconstruction/documentation/assets/115191984/0aa48b4f-3ec9-4964-b6f9-baa3ad805c93)
+
+**At this stage it's reccomended to scan each of the onsite and offsite QR codes and follow the links to ensure they are correct**
+
+
+## Hardware
+
+1Breadcrumb runs best as a mobile app on a tablet or a phone, however we have a number of all-in-one PC Kiosks in circulation which can be repurposed.
+
+### Tablets
+
+A larger sized tablet is preferred as they are easier to type on, and there are more secure mounting options available.
+
+A typical setup would be:
+[Samsung Galaxy Tab A8 (10.5" display)](https://www.pbtech.co.nz/product/TABSAM20006411/Samsung-Galaxy-Tab-A8-105-Tablet---Grey-64GB-Stora)
+[Secure table top stand](https://leadingsolutions.co.nz/products/tab-secure-table-top-samsung?variant=42681003311325)
+
+It's also a good idea to get a high quality USB extension cable.
+
+
+### All-in-one PC
+
+An example of one of these would be a [Lenovo V530 All-in-One (24)](https://www.lenovo.com/ao/en/desktops/lenovo/v-series-all-in-ones-/Lenovo-V530-24ICB-AIO/p/11LV1VZV534?orgRef=https%253A%252F%252Fwww.google.com%252F)
+
+
+
+
+### Kiosk Mode
+
+
+
+## Signage
+
+## The signage order form
+
+## Stockpiles
+
+## The Yard
+
+## The integration back to Procore
+
+
+## Shutting down a site
+
+
+## FAQ
+
+
+### Issues encountered with the system
+
+
+### Issues encountered with the project teams
+
+
+### Issues encountered with attendees
+
+
+
+## Contacting 1Breadcrumb support
 
 ## TODO:
-- instructions to project team (separte document for PMs around mainting the Procore Project Directory)
 - hardware
 - signage
 - the integration back up to Procore (site diary and documents, and quirks around this)
