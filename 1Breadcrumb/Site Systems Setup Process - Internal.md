@@ -208,9 +208,11 @@ This part of the system has a few quirks to be aware of.
 When searching for a user to add as a Company or Site Host, you must provide more than 3 characters in the search fields for them to populate:
 
 Doesn't work:
+
 ![3 characters doesn't work](https://github.com/cookbrothersconstruction/documentation/assets/115191984/a514e9b3-2880-40aa-8024-fca6a35a8d5f)
 
 Works:
+
 ![3+ characters works](https://github.com/cookbrothersconstruction/documentation/assets/115191984/2595d1cc-57f5-43a3-ba8c-1aeeff01dcca)
 
 
@@ -316,9 +318,19 @@ The project specific folder structure should now like like this:
 **At this stage it's reccomended to scan each of the onsite and offsite QR codes and follow the links to ensure they are correct**
 
 
-## Hardware
+## Kioks Hardware
 
 1Breadcrumb runs best as a mobile app on a tablet or a phone, however we have a number of all-in-one PC Kiosks in circulation which can be repurposed.
+
+
+### Kiosk Mode
+
+The 1Breadcrumb app and Web portal both have an option to enter Kiosk Mode. Once the app is in Kiosk Mode it should stay that way until exited by entering the signed-in user's password.
+
+Enter Kiosk Mode via the app menu hamburger:
+
+![Enter Kiosk Mode](https://github.com/cookbrothersconstruction/documentation/assets/115191984/b9897c32-6c5c-4913-a2b5-f92786c8b3dc)
+
 
 ### Tablets
 
@@ -330,14 +342,48 @@ A typical setup would be:
 
 It's also a good idea to get a high quality USB extension cable.
 
+> **Note that the 1Breadcrumb app currently only operates in the portrait orientation, so any fixed tablets will need to be mounted vertically**
+
+**Screen Brightness and Timeout**
+
+To ensure accessibility especially in areas which may be hit by direct sunlight configure the tablet so:
+- Display is in Dark Mode (in order to save battery if the tablets loses power)
+- Turn off Adaptive Brightness (it's pretty unreliable so just put the brightness at the max)
+- Set Screen timeout to the max.
+- Android Developer options has a setting for Stay Awake (screen will never sleep when charging) **developer options must stay enabled to keep this setting. this can also be configured outside of developer options via the ADB tool if needed**
+
+
+**App Pinning**
+
+Android doesn't have a password protected lockdown mode, so the best option is App Pinning which can be enabled in Security -> Other security settings -> Advanced -> Pin windows
+
+To pin the app, open the app switcher and tap on the application's icon:
+
+![Pin an app](https://github.com/cookbrothersconstruction/documentation/assets/115191984/f0d28311-2bbc-4620-88e0-0559b5087a7c)
+
+Then select "Pin this app":
+
+![Pin this app](https://github.com/cookbrothersconstruction/documentation/assets/115191984/7dc04d7a-6844-419d-83b9-6f0c5768a1ad)
+
+To exit this mode, hold the Recents and Back buttons at the same time:
+
+![Exit pin mode](https://github.com/cookbrothersconstruction/documentation/assets/115191984/a985bf48-38fc-4094-8e6e-65987528e2db)
+
 
 ### All-in-one PC
 
 An example of one of these would be a [Lenovo V530 All-in-One (24)](https://www.lenovo.com/ao/en/desktops/lenovo/v-series-all-in-ones-/Lenovo-V530-24ICB-AIO/p/11LV1VZV534?orgRef=https%253A%252F%252Fwww.google.com%252F)
 
+The 1Breadcrumb application will need to run in a web browser, and Google Chrome is preferred.
 
-### Kiosk Mode
+> If reconfiguring an older PC for use as a kiosk, ensure that any links (startup apps, browser bookmarks, desktop shortcuts, etc.) relating to OnLocation are removed.
 
+After entering Kiosk Mode in the web browser, the following URL should be used for creating any new bookmarks or shortcuts:
+`https://web.1bc.app/#/KioskMode`
+
+Don't place the browser into fullscreen mode, as when performing the Company Induction, the YouTube video needs to open in a new browser tab, and this occurring in fullscreen mode is confusing.
+
+Although these machines are touch-screen, it can be preferred to supply a keyboard and/or mouse.
 
 
 ## Signage
