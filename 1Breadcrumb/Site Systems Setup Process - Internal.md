@@ -388,40 +388,64 @@ Although these machines are touch-screen, it can be preferred to supply a keyboa
 
 ## Signage
 
-## The signage order form
+There is corflute signage designed for affixing the site's QR code (see lamination instructions above):
+![Corflute signage](https://github.com/cookbrothersconstruction/documentation/assets/115191984/108053d7-64a2-4956-a8ac-9b504ea60b0f)
 
-## Stockpiles
+This signage will be requested at the start of a project through the marketing team via the signage order form.
 
-## The Yard
+
+### The signage order form
+
+This form currently exists as an End To End document: 4.1b Site Signage Order Form.xlsx and has been modified to include the above signage request and is in place in the file structure templates regionally in Egnyte, and the Procore project templates.
+
+
+### Stockpiles
+
+This Signage is intended to be reused with a new QR, and these often end up in the yard or transferred to a new site.
+
+Additionally each region should retain a small stockpile of these signs for those who don't follow the signage order form.
+
 
 ## The integration back to Procore
+
+TODO
 
 
 ## Shutting down a site
 
+It's crucial that IT / BS are looped in during site shutdown no ensure any services and connections are disabled, equipment is returned, and systems are updated.
+
+The takedown request form is available here: https://forms.office.com/r/EWecbRyQcE
+
+After this form is submitted, the site can be made inactive in 1Breadcrumb via the Danger Zone under site management:
+
+![Danger Zone](https://github.com/cookbrothersconstruction/documentation/assets/115191984/26cb1e16-1122-4415-9e24-1f8c037ca8db)
+
+
 
 ## FAQ
+
+TODO
 
 
 ### Issues encountered with the system
 
+TODO
+
 
 ### Issues encountered with the project teams
+
+TODO
 
 
 ### Issues encountered with attendees
 
+TODO
 
 
 ## Contacting 1Breadcrumb support
 
-## TODO:
-- hardware
-- signage
-- the integration back up to Procore (site diary and documents, and quirks around this)
-- shutting down a site
-- FAQ (issues encountered with the system, project teams, or )
-- contacting 1Breadcrumb support
+TODO
 
 
 
