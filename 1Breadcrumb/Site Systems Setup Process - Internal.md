@@ -336,8 +336,6 @@ It's also a good idea to get a high quality USB extension cable.
 An example of one of these would be a [Lenovo V530 All-in-One (24)](https://www.lenovo.com/ao/en/desktops/lenovo/v-series-all-in-ones-/Lenovo-V530-24ICB-AIO/p/11LV1VZV534?orgRef=https%253A%252F%252Fwww.google.com%252F)
 
 
-
-
 ### Kiosk Mode
 
 
