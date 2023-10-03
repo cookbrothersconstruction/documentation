@@ -389,6 +389,7 @@ Although these machines are touch-screen, it can be preferred to supply a keyboa
 ## Signage
 
 There is corflute signage designed for affixing the site's QR code (see lamination instructions above):
+
 ![Corflute signage](https://github.com/cookbrothersconstruction/documentation/assets/115191984/108053d7-64a2-4956-a8ac-9b504ea60b0f)
 
 This signage will be requested at the start of a project through the marketing team via the signage order form.
@@ -409,6 +410,11 @@ Additionally each region should retain a small stockpile of these signs for thos
 ## The integration back to Procore
 
 TODO
+
+
+## Maintenance during project lifecycle
+
+### Procore Directory
 
 
 ## Shutting down a site
