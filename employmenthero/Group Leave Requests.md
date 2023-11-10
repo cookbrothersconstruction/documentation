@@ -2,7 +2,7 @@
 
 >**IMPORTANT**
 >
->**This guide ONLY applies to staff who DO NOT submit timesheets through Lentune. If you fill out a timesheet your leave still needs to be submitted through Lentune.If you are unsure whether you should be submitting leave through Employment Hero please contact Payroll. (Check wording with Krystal/Sarah)**
+>**This guide ONLY applies to staff who DO NOT submit timesheets through Lentune. If you fill out a timesheet your leave still needs to be submitted through Lentune.If you are unsure whether you should be submitting leave through Employment Hero please contact Payroll. `(Check wording with Krystal/Sarah)`**
 
 ## Table of Contents 
 - [How do I request leave?](#item-one)
@@ -32,6 +32,12 @@
 4. Click on **+ Create Leave Request.**
 
 ![+ Create Leave Request](https://github.com/cookbrothersconstruction/documentation/blob/main/images/My%20leave%20requests%20screen.png)  
+
+5. Select the appropiate leave category, the dates you are intending to be on leave and add a comment about the leave you are taking. If you have taken sick leave for more than 3 days please submit a medical certificate...`(Check wording with Krystal/Sarah)`
+
+![Request Leave Screen](https://github.com/cookbrothersconstruction/documentation/blob/main/images/request%20leave.png) 
+
+
 
 
 
