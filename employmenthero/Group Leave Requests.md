@@ -67,7 +67,7 @@ You can request leave from the Employment Hero web portal or from the Employment
    
 ![Leave Request Mobile](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000870.jpg) 
 
-6. Select the total leave hours to see the allocation of hours for each day. If you are only taking a half day of leave or if...`(Check wording with Krystal/Sarah)`
+6. Select the **Total leave hours** to see the allocation of hours for each day. If you are only taking a half day of leave or if...`(Check wording with Krystal/Sarah)`
 
 ![Leave Request Hours Mobile](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000871.jpg) 
 
@@ -82,6 +82,25 @@ You can request leave from the Employment Hero web portal or from the Employment
 10. Edit the details or delete the request.
     
 ![Leave Request Edit or Delete Mobile](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000875.jpg) 
+
+ <a id="item-one"></a>
+ `(Check wording with Krystal/Sarah)`
+ ## Who approves my leave?
+
+ **Leave is approved by your manager.** You can always check the leave status of your request by going to **Time > Leave** from the Employment Hero web portal or **Leave** from the Swag App. 
+ 
+ If your leave request is still pending please contact your manager directly to get them to approve it. If your manager is away please contact payroll `(Check wording with Krystal/Sarah)`
+
+ <a id="item-one"></a>
+ ## How will I know when my leave has been approved?
+
+You will get an email to your Cook Brothers email address informing you of the outcome of your leave request. 
+
+To view the status of your leave requests on the Employment Hero web portal login to Employment Hero. 
+
+Go to 
+
+
 
 
 
