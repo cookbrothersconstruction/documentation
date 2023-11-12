@@ -17,6 +17,8 @@
  <a id="item-one"></a>
  ## How do I request leave?
 
+You can request leave from the Employment Hero web portal or from the Employment Hero app (Swag). 
+
  <a id="item-one-one"></a>
 ### From the Web Portal
 
@@ -73,10 +75,14 @@
 
 ![Leave Request Submit](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000872.jpg) 
 
-8. To edit or delete your leave request please go to **Time > Leave**. From here select the dropdown next to the leave request you want to edit or delete.
-
-
+8. To edit or delete your leave request please go to **Leave.** and select the leave request you want to edit or delete.
    
+![Leave Request Select for Edit](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000869.jpg) 
+
+10. Edit the details or delete the request.
+    
+![Leave Request Edit or Delete Mobile](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000875.jpg) 
+
 
 
 
