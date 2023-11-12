@@ -39,6 +39,7 @@
 
 6. To edit or delete your leave request please go to **Time > Leave**. From here select the dropdown next to the leave request you want to edit or delete.
 
+![Leave Edit Screen](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/Leave%20menu%202.png) 
 
 
    
