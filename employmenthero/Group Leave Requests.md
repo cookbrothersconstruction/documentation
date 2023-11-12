@@ -39,6 +39,8 @@
 
 6. To edit or delete your leave request please go to **Time > Leave**. From here select the dropdown next to the leave request you want to edit or delete.
 
+
+
    
 
 
