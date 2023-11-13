@@ -13,13 +13,15 @@
 - [What leave category should I use?](#item-three)
 - [How do I know how much leave I have?](#item-three)
 
- <!-- headings -->
- <a id="item-one"></a>
- ## How do I request leave?
+<!-- headings -->
+<a id="item-one"></a>
+ 
+## How do I request leave?
 
 You can request leave from the Employment Hero web portal or from the Employment Hero app (Swag). 
 
- <a id="item-one-one"></a>
+<a id="item-one-one"></a>
+ 
 ### From the Web Portal
 
 1. Login to Employment Hero[ here.](https://secure.employmenthero.com/users/sign_in?ref=)
