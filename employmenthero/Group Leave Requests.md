@@ -22,7 +22,7 @@ You can request leave from the Employment Hero web portal or from the Employment
  <a id="item-one-one"></a>
 ### From the Web Portal
 
-1. [Login to Employment Hero](https://secure.employmenthero.com/users/sign_in?ref=)
+1. Login to Employment Hero[ here.](https://secure.employmenthero.com/users/sign_in?ref=)
 2. Click on **Time.**
    
 ![Time menu icon](https://github.com/cookbrothersconstruction/documentation/blob/main/images/Time%20Icon.png)
@@ -48,9 +48,9 @@ You can request leave from the Employment Hero web portal or from the Employment
 ![Leave Edit Screen](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/Leave%20menu%202.png) 
 
  <a id="item-one-one"></a>
-### From the Mobile App
+### From the Mobile App (Swag)
 
-1. Login to the Swag App.
+1. Login to the Swag App on your mobile phone.
 2. Select **Work.**
 
 ![Swag Home Screen](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000867.jpg) 
@@ -94,13 +94,44 @@ You can request leave from the Employment Hero web portal or from the Employment
  <a id="item-one"></a>
  ## How will I know when my leave has been approved?
 
-You will get an email to your Cook Brothers email address informing you of the outcome of your leave request. 
+You will get an email to your **Cook Brothers** email address informing you of the outcome of your leave request. 
 
 To view the status of your leave requests on the Employment Hero web portal login to Employment Hero. 
 
-Go to 
+1. Select **Time > Leave.**
 
+![Leave Approved Web Portal](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/Approved%20leave%20requests.png) 
 
+2. Hover over the comments icon to see any feedback from your manager about the leave request.
+
+To view the status of your leave requests on the Employment Hero Swag app go to the app on your mobile phone. 
+
+1. Select **leave** across the top menu.
+2. The status of the request will display on this screen. 
+
+![Leave Status Requests Mobile App](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000879.jpg) 
+
+3. To see the details select the leave request and expand.
+
+![Leave Status Requests Expand Mobile App](https://github.com/cookbrothersconstruction/documentation/blob/main/ehimages/1000000880.jpg) 
+
+ <a id="item-one"></a>
+ ## What leave category should I use?
+ `(Check wording with Krystal/Sarah)`
+The types of leave requests are as follows:
+ 
+Alternative Holiday 
+Annual Leave
+Bereavement Leave
+Leave without pay
+Other (Please specify in your comment)
+Sick Leave
+
+ <a id="item-one"></a>
+ ## How do I know how much leave I have?
+ 
+ `(Check wording with Krystal/Sarah)`
+ You will not get your leave balances through Employment Hero. To see how much leave you have owing please see your most recent payslip (these are emailed out to you every fortnight).
 
 
 
