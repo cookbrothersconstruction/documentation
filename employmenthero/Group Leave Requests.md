@@ -1,4 +1,4 @@
-![1000000878](https://github.com/cookbrothersconstruction/documentation/assets/115191984/323b5b42-7c20-4cc2-ad4e-2824807ac3e3)![1000000870](https://github.com/cookbrothersconstruction/documentation/assets/115191984/3bff7c1b-42d8-489d-86f8-13021c579208)>**IMPORTANT**
+>**IMPORTANT**
 >
 >**This guide ONLY applies to staff who DO NOT submit timesheets through Lentune. If you fill out a timesheet your leave still needs to be submitted through Lentune. If you are unsure whether you should be submitting leave through Employment Hero please contact Payroll. `(Check wording with Krystal/Sarah)`**
 
@@ -82,7 +82,7 @@ You can request leave from the Employment Hero web portal or from the Employment
 
 10. Edit the details or delete the request.
     
-![1000000878](https://github.com/cookbrothersconstruction/documentation/assets/115191984/059f8ed7-cc1a-4783-b764-4915956756b4)
+![1000000875](https://github.com/cookbrothersconstruction/documentation/assets/115191984/e6849466-453f-439c-a975-08e92cc19fdb)
  
 <a id="item-one"></a>
 `(Check wording with Krystal/Sarah)`
