@@ -1,3 +1,6 @@
+
+![Employment Hero Banner Logo](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ff45f4d8-0a47-4def-a1af-084fa2f41c8c)
+
 >**IMPORTANT**
 >
 >**This guide ONLY applies to staff who DO NOT submit timesheets through Lentune. If you fill out a timesheet your leave still needs to be submitted through Lentune. If you are unsure whether you should be submitting leave through Employment Hero please contact Payroll. `(Check wording with Krystal/Sarah)`**
