@@ -9,6 +9,8 @@
 - We will need to define hiring process evaluation sections and questions. These can be templated.
 - There is an option to "enable overall rating" on evaluation sections. Unsure what this means exactly.
 - A hiring manager is separate from a collaborator in the recruitment process?
+- Hiring managers and collaborators need to enable EH MFA in order to access the recruitment module
+- If there is contract negotiation, when is the contract issued (candidate is not onboarded at this stage, so perhaps negotiation happens through recruitment module. contracts are templated anyway).
 
 ## Configuration
 - Seek and TradeMe require a bit of configuration
