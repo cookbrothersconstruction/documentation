@@ -96,8 +96,10 @@ Which maps to the following HTML:
 
 ### Variables
 _what they do_
+Best to insert inside the editor, as they may need an id attribute
 
 _limitations_
+You can't apply styling to variables themselves, meaning they may not always look right in context.
 
 ## Editing in HTML
 _whitespace_
@@ -138,6 +140,7 @@ Links within the HTML will work fine, and you can include the `target="_blank"` 
 Tables can be used to format content, just beware that you will need to end the table and start a new one if you want Content Blocks or Content Sections to _appear_ inside a table.
 
 **Indentation using left margins**
+Indending is done using a style attribute `margin-left: 20px`, additional indentation is achieved by incrementing this by `10` at a time
 
 **Text colouring**
 This is possible but not recommended for printing / reading / accessibility reasons
@@ -154,7 +157,17 @@ Special characters
 `&ndash`
 
 
-
 ## Testing
-_caveats around "save and preview"_
-_needing to back out, select a different template, back out again, and select the template to test otherwise it won't update_
+
+The templates are non-trivial to test.
+You can "Save and Preview" from the editor, but you can't test the blocks themselves there so you'll need to (bulk) issue the document so see how the final copy (received by the employee) will look.
+
+When issuing the document and selecting the template, if you've made changes to the template then you will need to select any other template, then go back and select the template you want to test. Employment Hero somewhat saves it's state even between browser sessions in this way.
+
+
+## BE CAREFUL
+
+As this module of the system is very fragile you should ensure that:
+
+- You don't change and always keep the original master template from implementation
+- Clone an existing templae in the system before making modifications
