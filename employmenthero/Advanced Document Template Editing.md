@@ -170,4 +170,4 @@ When issuing the document and selecting the template, if you've made changes to 
 As this module of the system is very fragile you should ensure that:
 
 - You don't change and always keep the original master template from implementation
-- Clone an existing templae in the system before making modifications
+- Clone an existing template in the system before making modifications
