@@ -409,13 +409,47 @@ Additionally each region should retain a small stockpile of these signs for thos
 
 ## The integration back to Procore
 
-TODO
+The other side of the integration is 1Breadcrumb to Procore. This occurs for a couple of components of the 1Breadcrumb system.
 
+### Export of checkins
+
+Attendance is pushed up to the Procore Project Site Diary. Like the integration of other components this is not realtime and occurs on a schedule (around once per hour).
+Depending on the visitor type (Employee, Subcontractor, Visitor), the integration is configured to export attendance into one of the 3 Procore Site Diary buckets (Timecard, Manpower Log, Visitor Log respectively):
+
+![1Breadcrumb export configuration](https://github.com/cookbrothersconstruction/documentation/assets/115191984/241cffbd-d23e-4b78-9a3c-c5739f569996)
+
+Although having attendance posted to the Procore Site Diary is useful for Procore reports and dashboards, H&S person-hour reporting at the Exec level is based on exports of the data directly from 1Breadcrumb. Instructions for these reports can be found here [H&S Personhour reports](https://cookbrothers.egnyte.com/navigate/file/b062c1fb-327c-4609-b5b5-865f95c2512d)
+
+1Breadcrumb will post additional information in the Comments column of the relevant site diary entry:
+
+![Site Diary entry comments](https://github.com/cookbrothersconstruction/documentation/assets/115191984/5f242d1d-12ad-4ec5-aa78-77113e0742a0)
+
+
+### Export of documents
+
+Documentation collected by the 1Breadcrumb system is exported to the Procore Project Documents tool, under the folder 1Breadcrumb as per the 1Breadcrumb integration configuration:
+
+![Document export configuration](https://github.com/cookbrothersconstruction/documentation/assets/115191984/025c4f01-921b-4716-b37a-e9507ca8d92d)
+
+Inductions are currently auto-approved, so for example copies of individual Site Induction records will be seen in the Documents tool like so:
+
+![Induction records](https://github.com/cookbrothersconstruction/documentation/assets/115191984/aee83272-df98-4632-977d-dcd20a845c49)
+
+This data can also be pulled directly from the 1Breadcrumb reporting.
 
 ## Maintenance during project lifecycle
 
 ### Procore Directory
 
+The most critical thing to maintain throughout the project lifecycle is the maintenance of the Procore Project directory as this populates the 1Breadcrumb supplier list and allows subcontractors to select their company when they check in to a site.
+
+**only the company needs to be added (screenshots / gif)**
+
+**something about the _company not listed here company if not already mentioned**
+
+This should be done in advance of the trade partner employees showing up to site.
+
+This also allows time for the offsite induction material to be communicated by the project team to the trade partner company.
 
 ## Shutting down a site
 
@@ -427,31 +461,22 @@ After this form is submitted, the site can be made inactive in 1Breadcrumb via t
 
 ![Danger Zone](https://github.com/cookbrothersconstruction/documentation/assets/115191984/26cb1e16-1122-4415-9e24-1f8c037ca8db)
 
+**I'm unsure what affect this might have on reporting, so check that inactive sites can appear in activity reports, otherwise sites should be made inactive > 1 month after closeout**
 
 
-## FAQ
-
-TODO
+## What specifically should not be done in the system
 
 
-### Issues encountered with the system
-
-TODO
+## Issues encountered with the system
 
 
-### Issues encountered with the project teams
-
-TODO
+## Issues encountered with the project teams
 
 
-### Issues encountered with attendees
-
-TODO
+## Issues encountered with attendees
 
 
 ## Contacting 1Breadcrumb support
-
-TODO
 
 
 
