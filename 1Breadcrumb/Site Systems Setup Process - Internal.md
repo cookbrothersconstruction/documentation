@@ -238,7 +238,7 @@ The general recommendation from 1Breadcrumb is that Site Hosts (Site Managers) s
 
 Now this site has a baseline setup in 1Breadcrumb you can send information to the project team.
 
-For ease of management, create a new folder for the project in the correct region under [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material):
+For ease of management, create a new folder for the project in the correct region under ![M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](file://M:/One Team/Business Systems/01 Projects/H&S Systems/1Breadcrumb/Project specific material):
 
 ![New project folder for documentation](https://github.com/cookbrothersconstruction/documentation/assets/115191984/8c28a0f2-7af2-40d2-86e7-6a074a5f78d1)
 
@@ -252,7 +252,7 @@ First get the generated instructions from 1Breadcrumb by hitting the **Print Ins
 And move this into the project folder created above.
 
 
-Then **copy** the `1BC QR Code Template.docx` document from [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material) into the project specifc folder.
+Then **copy** the `1BC QR Code Template.docx` document from [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](file://M:/One%20Team/Business%20Systems/01%20Projects/H%26S%20Systems/1Breadcrumb/Project%20specific%20material) into the project specific folder.
 
 Open the Site Instructions PDF and on the second page you'll see the site QR code.
 
@@ -291,7 +291,7 @@ Right-click on the Offsite QR code and save it to the project specific folder as
 
 Hit the Copy to Clipboard button under Offsite Link and save this in the project specific folder in `Offsite Link.txt`
 
-**Copy** the `1Breadcrumb Trade Partner Induction Instructions.docx` file from [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material) into the project specific folder.
+**Copy** the `1Breadcrumb Trade Partner Induction Instructions.docx` file from ![M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material) into the project specific folder.
 
 Edit this file and paste in the contents of `Offsite QR.png` and `Offsite Link.txt` into the appropriate places, and enter in the site name:
 
