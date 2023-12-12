@@ -453,14 +453,9 @@ The most critical thing to maintain throughout the project lifecycle is the main
 
 There exists in Procore a company named **Company Not Listed Here**
 
-![Example of loading a company to the Procore Project Directory](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ac24ec78-c429-4cb3-8811-7224aa70d602)
-
-
 Only the company itself needs to be added, not any individual users (unless they also need access to Procore). This is best done via "Bulk Add From Co. Directory".
 
-**only the company needs to be added (screenshots / gif)**
-
-**something about the _company not listed here company if not already mentioned**
+![Example of loading a company to the Procore Project Directory](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ac24ec78-c429-4cb3-8811-7224aa70d602)
 
 This should be done in advance of the trade partner employees showing up to site.
 
