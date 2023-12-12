@@ -238,7 +238,7 @@ The general recommendation from 1Breadcrumb is that Site Hosts (Site Managers) s
 
 Now this site has a baseline setup in 1Breadcrumb you can send information to the project team.
 
-For ease of management, create a new folder for the project in the correct region under ![M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](file://M:/One Team/Business Systems/01 Projects/H&S Systems/1Breadcrumb/Project specific material):
+For ease of management, create a new folder for the project in the correct region under [M:\One Team\Business Systems\01 Projects\H&S Systems\1Breadcrumb\Project specific material](file://M:/One%20Team/Business%20Systems/01%20Projects/H%26S%20Systems/1Breadcrumb/Project%20specific%20material):
 
 ![New project folder for documentation](https://github.com/cookbrothersconstruction/documentation/assets/115191984/8c28a0f2-7af2-40d2-86e7-6a074a5f78d1)
 
@@ -318,7 +318,7 @@ The project specific folder structure should now like like this:
 **At this stage it's reccomended to scan each of the onsite and offsite QR codes and follow the links to ensure they are correct**
 
 
-## Kioks Hardware
+## Kiosk Hardware
 
 1Breadcrumb runs best as a mobile app on a tablet or a phone, however we have a number of all-in-one PC Kiosks in circulation which can be repurposed.
 
@@ -343,6 +343,14 @@ A typical setup would be:
 It's also a good idea to get a high quality USB extension cable.
 
 > **Note that the 1Breadcrumb app currently only operates in the portrait orientation, so any fixed tablets will need to be mounted vertically**
+
+**Configuration**
+
+The kiosk tablets are signed in as our kiosk@cookbrothers.co.nz Google account.
+
+Generally we don't set a pin / passcode / lock on the device so that it can be accessed easily if it goes to slep 💤.
+
+Skip over any annoying Samsung cruft, or settings which don't need to be enabled.
 
 **Screen Brightness and Timeout**
 
@@ -435,13 +443,20 @@ Inductions are currently auto-approved, so for example copies of individual Site
 
 ![Induction records](https://github.com/cookbrothersconstruction/documentation/assets/115191984/aee83272-df98-4632-977d-dcd20a845c49)
 
-This data can also be pulled directly from the 1Breadcrumb reporting.
+This data can also be pulled directly from 1Breadcrumb reporting.
 
 ## Maintenance during project lifecycle
 
 ### Procore Directory
 
 The most critical thing to maintain throughout the project lifecycle is the maintenance of the Procore Project directory as this populates the 1Breadcrumb supplier list and allows subcontractors to select their company when they check in to a site.
+
+There exists in Procore a company named **Company Not Listed Here**
+
+![Example of loading a company to the Procore Project Directory](https://github.com/cookbrothersconstruction/documentation/assets/115191984/ac24ec78-c429-4cb3-8811-7224aa70d602)
+
+
+Only the company itself needs to be added, not any individual users (unless they also need access to Procore). This is best done via "Bulk Add From Co. Directory".
 
 **only the company needs to be added (screenshots / gif)**
 
