@@ -65,19 +65,88 @@ Another Sending signatory can be selected here, however you can also upload an i
 
 ![Fish Signature](https://github.com/cookbrothersconstruction/documentation/assets/115191984/6a19ca0f-afa3-47fd-ac27-44c1e38321ad)
 
-You can then modify the email content which will be sent to the new employee. Just make sure it includes the `!password_url`
+You can then modify the email content which will be sent to the new employee. Just make sure it includes the `!password_url`. This can be edited globally as an email template.
 
 From there you can save this as a draft, or email the document immediately.
 
-`what does save as draft do?`
+If you have selected a sending signatory, then the contract will first be sent to that sending signatory (e.g. the hiring manager).
+This emails looks like so:
 
-`do the changed fields get set against the employee after they're created?`
+![Sending signatory email](https://github.com/cookbrothersconstruction/documentation/assets/115191984/12e10b8f-dbe2-4970-b168-1c298d8c7d07)
 
-`confirm sending signatory appears correctly`
+When the signatory follows the link in this email they will be taken to the document against the new employee's proifle and can enter their own signature at the bottom before accepting:
 
-`how does hard-copy work / get confirmed`
+![Hiring manager signing the contract as a sender](https://github.com/cookbrothersconstruction/documentation/assets/115191984/cb6e946f-4f27-4e15-90e9-d9fbeed952a7)
+
+The document will then be sent to the recipient (candidate).
+
+
+> Note that when changing fields when issuing the contract (such as entering address line 1), this information will be included in the document but **is not** automatically set against the new employee's profile
+>
+> Meaning that there may still be missing information that may need to be populated by someone with access to modify the employee's profile (or the employee themselves)
+
+> If you don't hit **Email document** or if you select **Hard copy**, then you have the option of hitting **Save As Draft**
+>
+> This will create the employee's profile and save the document as a **Draft** against their HR Documents.
+>
+> The document can then be edited which takes you back to the contract issuing flow where you can send the document and email to the employee.
+
+
+## Issuing a document manually
+
+Document Templates (of which the IEA is one) can also be issued outside of the recruitment flow. In this case an employee profile must already exist.
+
+This is performed in the system via **Compliance -> Bulk Issue Documents**:
+
+![Bulk issue](https://github.com/cookbrothersconstruction/documentation/assets/115191984/d185805e-bdc7-4abb-9f75-c7fc2e75e213)
+
+> You may choose to do this if the candidate has declined the contract.
+>
+> In this case they have left the recuitment module and technically exist as an employee.
+
+### How this differs from the **Contract Issuing** flow when ending the **Recruitment** process
+
+The user interface is different here, as bulk issuing may relate to documents other than a contract:
+
+![Bulk Issuing flow](https://github.com/cookbrothersconstruction/documentation/assets/115191984/e640115e-32cf-46a8-9f66-b388c6908b99)
+
+Documents can be issued to more than one employee at a time by selecting them on the first step **Select personnel**
+
+On the second step you would select the template, in this case **Cook Brothers Construction - Individual Employment Agreement**
+
+The third step **Edit base document** allows you to fill in variables and select optional blocks in the contract, however the main differece here is that the auto-populated variables can not be edited like they can in the **Issue Contract** flow:
+
+![Edit base document](https://github.com/cookbrothersconstruction/documentation/assets/115191984/5f99a92a-5ba3-4ee2-8b99-17f565656e7a)
+
+Although the variables can be manually edited in the **Review documents** step, it's a good idea to check that the auto-populated fields are set against the employ profile.
+
+These variables are:
+- First Name
+- Last Name
+- Full-time / Part-time / Casual
+- Start Date
+- Job Title
+- Address Line 1 (although this block can be removed in favour of the Email Address block)
+- Address Line 2 (although this block can be removed in favour of the Email Address block)
+- City (although this block can be removed in favour of the Email Address block)
+- State (although this block can be removed in favour of the Email Address block)
+- Postcode (although this block can be removed in favour of the Email Address block)
+- Manager Job Title (**meaning the employee profile must have the correct manager set**)
+- Location
+- Salary
+- Probation Period
+
+Every other variable is editable directly on the document.
+
+You can still preview the resulting document in the **Review documents** step:
+
+![Preview during bulk issue](https://github.com/cookbrothersconstruction/documentation/assets/115191984/8559049b-3151-4a72-8de1-8f9cfe8d7c94)
+
+You can manually edit any variables (including auto-populated variables) via the **Edit** action:
+
+![Manually edit underlying document](https://github.com/cookbrothersconstruction/documentation/assets/115191984/763ff6d7-76f3-418e-aaa2-2be3e63d7dfe)
+
 
 ## Next steps
 
-- Check over employee info
-- When contract is returned, add to teams and fire checklists
+- When contract is returned, confirm employee details, add to teams and fire checklists
