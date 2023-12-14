@@ -73,6 +73,10 @@ From there you can save this as a draft, or email the document immediately.
 
 `do the changed fields get set against the employee after they're created?`
 
+`confirm sending signatory appears correctly`
+
+`how does hard-copy work / get confirmed`
+
 ## Next steps
 
 - Check over employee info
