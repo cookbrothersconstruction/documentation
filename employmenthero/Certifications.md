@@ -1,16 +1,36 @@
-# The Certification experience as an employee
+# Certifications in Employment Hero
 
-Using these settings for a certification:
+## The requirement
 
-![Driver License Certification details](https://github.com/cookbrothersconstruction/documentation/assets/115191984/4d00f347-361d-4907-a017-f702c111fc1b)
+Health and Safety need to move away from BWARE, and accommodating "licenses and certifications" was a nice-to-have requirement of an HRIS system.
 
-A user who is not "Pending", that is either an early adopter or an employee fully onboarded will see this certification like so:
+The block of work to focus on this was missed, and the commitment of H&S wasn't attained to a level where a full migration of this data could be properly assessed.
 
-![Driver License Certification as an employee](https://github.com/cookbrothersconstruction/documentation/assets/115191984/e33edc9f-4140-4bd1-852b-a195e8cea342)
+This is complicated by a number of factors:
+- Recording keeping in BWARE has been poorly maintained
+- BWARE is a horrible system with awful reporting
+- Document records are stored as documents against a worker in BWARE as opposed to being directly associated with the training / license / certification / competency
+- There is a long list of training / licenses / certifications / competencies and manually mapping these to Employment Hero's certifications module would be a non-trivial block of work
+- Actually populating this data once mapped would be a large amount of work
+- Mapping these certifications to the teams or individuals would need to be well defined, as would the process for maintaining them
+- The requirement is that these records can be pulled and reported on for a new construction project, this reporting requirement would need to be formalized
+- The approval step for certificions would need to be assigned regionally, meaning a lot 4 or 5 times the number of certifications globally which may become unwieldy
 
-When updating their information against this certification this is what they are presented with (save has been pressed so as to see required fields):
 
-![Fields requested on Driver License Certification](https://github.com/cookbrothersconstruction/documentation/assets/115191984/5220dcb7-3b72-4537-8910-1451423a3c85)
+## What we're launching with
 
-Multiple documents can be added against a certification which may solve the Site Safe complications.
-For example if someone's foundation passport expires they can upload their other / refresher course against the certification.
+Until the viability can be properly assessed and this project planned, we have settled on only two certifications for launch:
+
+![One License and one Training](https://github.com/cookbrothersconstruction/documentation/assets/115191984/c0a284af-85c0-4cf4-8a01-5b2aa5dcf775)
+
+
+### Driver License
+
+
+### Workplace First Aid Course
+
+
+## The experience as an existing employee at launch
+
+
+## The experience as a newly onboarded employee post-launch
