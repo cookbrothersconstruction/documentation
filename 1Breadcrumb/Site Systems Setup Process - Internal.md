@@ -318,6 +318,43 @@ The project specific folder structure should now like like this:
 **At this stage it's reccomended to scan each of the onsite and offsite QR codes and follow the links to ensure they are correct**
 
 
+### Comms to the project team
+
+I usually send something like the following to the porject team:
+
+![Comms to project team](https://github.com/cookbrothersconstruction/documentation/assets/115191984/b91ac4d7-4e54-493d-b8c0-8f248c91d45c)
+
+<hr />
+
+Hi Team,
+
+Please forward to more of your project team as necessary.
+
+This site is now set up in 1Breadcrumb.
+
+Attached is a template which should be included in engagements with Trade Partners to inform them of the system, their requirement to use it, and how to be prepared. This importantly also contains the off-site induction link which they can follow to complete the Company Induction prior to attending a site. This Company Induction will only need to be done once per user, and site-specific induction material will be completed (once) upon checking-in to the site.
+
+Note that Trade Partner Companies need to be added to the Procore Project Directory priory to sending this out, so that they will be able to select who they work with.
+
+Also attached is the standard site 1Breadcrumb info sheet.
+
+Remember that there are Knowledgebase articles available for anyone who needs to know more about the 1Breadcrumb system and how we use it:
+[https://helpdesk.cookbrothers.co.nz/support/solutions/42000067671](https://helpdesk.cookbrothers.co.nz/support/solutions/42000067671)
+
+**info about the printable QR code**
+
+Regards,
+
+<hr />
+
+This would usually include something specific for the project, but be sure to include:
+- The standard sign-in PDF sheet
+- The Trade Partner instruction document
+- Link to the Knowledgebase articles
+- An obvious line stating the importance of adding Trade Partner companies to the Procore project
+- Unless already sorted, you probably want to also include the QR code for lamination and printing (to be done by a GSD or Office Admin)
+
+
 ## Kiosk Hardware
 
 1Breadcrumb runs best as a mobile app on a tablet or a phone, however we have a number of all-in-one PC Kiosks in circulation which can be repurposed.
