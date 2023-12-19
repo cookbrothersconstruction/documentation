@@ -488,6 +488,8 @@ This data can also be pulled directly from 1Breadcrumb reporting.
 
 The most critical thing to maintain throughout the project lifecycle is the maintenance of the Procore Project directory as this populates the 1Breadcrumb supplier list and allows subcontractors to select their company when they check in to a site.
 
+> Note that in order for a company to import into 1Breadcrumb as a supplier, it must have a distinct NZBN number set against the 
+
 There exists in Procore a company named **Company Not Listed Here**
 
 Only the company itself needs to be added, not any individual users (unless they also need access to Procore). This is best done via "Bulk Add From Co. Directory".
@@ -513,18 +515,32 @@ After this form is submitted, the site can be made inactive in 1Breadcrumb via t
 
 ## What specifically should not be done in the system
 
+**Don't manage suppliers directly in 1Breadcrumb, this must be maintained via the Procore Project Directory**
+
 
 ## Issues encountered with the system
 
+**Auto-attendance (in particular on Android devices) is unreliable at best, and often will fail to check people in. This currently can't be relied upon. 1Breacdrumb say they're working on a release to get this back to normal**
 
 ## Issues encountered with the project teams
+
+**After the information package has been sent to the Project team, it's essentially handed over to them. They might not however actually follow through on sending the info to trade partners, installing signage on site, or communicating any issues with the system**
+
+**Some site managers are simply reluctant to use or understand the system, and will fall back to using paper. Going forward, unless improved upon via traning material, this is an issue for H&S / GSDs to handle**
 
 
 ## Issues encountered with attendees
 
+**Employees will sometimes check in as Visitors which bypasses any inductions. This can be monitored and they have the option to change their Visitor Type at the last stage of check-in**
+
+**Some users (usually Trade Partners) will be reluctant to install an app on their device, or enable permissions for it. Fair enough, and they have the option of signing-in via the site kiosk or have a host check them in via _host check-in_**
+
 
 ## Contacting 1Breadcrumb support
 
+First point of contact is Aaron Rees - Customer Success Manager on [aaron@1breadcrumb.com](mailto:aaron@1breadcrumb.com)
+There is also a support email [support@1breadcrumb.com](mailto:support@1breadcrumb.com), which is good to CC into any queries so they're ideally not seen by just one person.
+Usually not contacted directly, there is also [developers@1breadcrumb.com](mailto:developers@1breadcrumb.com)
 
 
 </div>
