@@ -16,6 +16,11 @@
 1. Download the swag app from the google play store or the app store on iphone.
 2. You would have set a passcode when you first signed into the app so enter this now.
 
+>**IMPORTANT**
+>
+>** If you have forgotten your passcode you will need to re-login to your Employment Hero Account.
+> To do this select 
+
 
 
 
