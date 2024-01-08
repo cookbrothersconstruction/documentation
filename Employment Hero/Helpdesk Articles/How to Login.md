@@ -6,4 +6,4 @@
 
 1. Head to the Employment Hero website
 2. Click the Login button
-3. Click the HR Login button
+
