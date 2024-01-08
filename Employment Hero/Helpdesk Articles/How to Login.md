@@ -4,7 +4,8 @@
 
 ### Through the Employment Hero web portal. 
 
-1. Head to the [Employment Hero website](https://secure.employmenthero.com/users/sign_in)
+1. Head to the [Employment Hero Website.](https://secure.employmenthero.com/users/sign_in)
    
-3. Enter the 
+2. Enter your personal email address and password.
+3. If you have forgotten your password you can reset it by selecting "forgot password". 
 
