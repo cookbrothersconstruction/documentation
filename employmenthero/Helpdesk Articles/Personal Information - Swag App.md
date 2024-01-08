@@ -6,3 +6,4 @@
 - [Viewing Your Employment History](#item-three)
 - [Viewing Your Banking Information](#item-four)
 - [Editing Your Emergency Contacts](#item-five)
+- [Viewing Your KiwiSaver](#item-six)
