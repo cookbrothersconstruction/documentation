@@ -19,7 +19,9 @@
 >**IMPORTANT**
 >
 >** If you have forgotten your passcode you will need to re-login to your Employment Hero Account.
-> To do this select 
+> To do this select login to a different account.
+>
+> Then login to your account using your password. If you have forgotten your main password you can reset it from here. 
 
 
 
