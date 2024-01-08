@@ -4,6 +4,7 @@
 
 ### Through the Employment Hero web portal. 
 
-1. Head to the Employment Hero website
-2. Click the Login button
+1. Head to the [Employment Hero website](https://secure.employmenthero.com/users/sign_in)
+   
+3. Enter the 
 
