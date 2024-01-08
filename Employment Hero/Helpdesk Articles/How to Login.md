@@ -14,6 +14,10 @@
 ### Through the Employment Hero swag app. 
 
 1. Download the swag app from the google play store or the app store on iphone.
+2. You would have set a passcode when you first signed into the app so enter this now.
+
+
+
 
 
 
