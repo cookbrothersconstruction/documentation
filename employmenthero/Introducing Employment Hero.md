@@ -9,6 +9,6 @@ We're thrilled to introduce you to Employment Hero, an innovative HR solution de
 2. Access to your personal details, pay details and emergency contacts.
 3. Access to the company newsfeed.
 4. Leave requests for group team members.
-5. Dynamic company newsfeed
+5. Dynamic company newsfeed.
 
 
