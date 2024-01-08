@@ -2,3 +2,8 @@
 
 ## How to login to Employment Hero 
 
+### Through the Employment Hero web portal. 
+
+1. Head to the Employment Hero website
+2. Click the Login button
+3. Click the HR Login button
