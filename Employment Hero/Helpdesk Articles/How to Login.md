@@ -6,10 +6,14 @@
 
 1. Head to the [Employment Hero Website.](https://secure.employmenthero.com/users/sign_in)
    
-2. Enter your personal email address and password.
-3. If you have forgotten your password you can reset it by selecting "forgot password".
+![Login Page](https://github.com/cookbrothersconstruction/documentation/blob/main/Employment%20Hero/Images/Login%20Images/web_login.png)
 
-4. Select Log in.
+3. Enter your personal email address and password.
+4. If you have forgotten your password you can reset it by selecting "forgot password".
+   
+![Forgot Password](https://github.com/cookbrothersconstruction/documentation/blob/main/Employment%20Hero/Images/Login%20Images/forgot_password.png)
+
+5. Select Log in.
 
 ### Through the Employment Hero swag app. 
 
@@ -19,9 +23,11 @@
 >**IMPORTANT**
 >
 >** If you have forgotten your passcode you will need to re-login to your Employment Hero Account.
-> To do this select login to a different account.
+> 1. To do this select login to a different account.
+> ![Login to a different account](https://github.com/cookbrothersconstruction/documentation/blob/main/Employment%20Hero/Images/Login%20Images/swag_forgot_password.jpg)
 >
-> Then login to your account using your password. If you have forgotten your main password you can reset it from here. 
+> Then login to your account using your password. If you have forgotten your main password you can reset it from here.
+>![Reset Password](https://github.com/cookbrothersconstruction/documentation/blob/main/Employment%20Hero/Images/Login%20Images/swag_home_reset_password.jpg)
 
 
 
