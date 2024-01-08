@@ -7,5 +7,13 @@
 1. Head to the [Employment Hero Website.](https://secure.employmenthero.com/users/sign_in)
    
 2. Enter your personal email address and password.
-3. If you have forgotten your password you can reset it by selecting "forgot password". 
+3. If you have forgotten your password you can reset it by selecting "forgot password".
+
+4. Select Log in.
+
+### Through the Employment Hero swag app. 
+
+1. Download the swag app from the google play store or the app store on iphone.
+
+
 
